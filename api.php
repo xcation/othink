@@ -2,7 +2,7 @@
 
 /**
  * API调用
- * Some rights reserved：abc3210.com
+ * Some rights reserved：abc3210.comxxx
  * Contact email:admin@abc3210.com
  */
 define('IS_API', true);
